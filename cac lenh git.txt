@@ -1,0 +1,12 @@
+1. clone 1 project co san 
+=> git clone link_https
+
+2. tao 1 project len github:
+=> lay ve may chon thu muc luu file mo git bash here nhap lenh:
+=> git clone link_https
+
+day file len github mo git bash here nhap cac lenh:
+=> git status (kiem tra trang thai file)
+=> git add . (them file)
+=> git commit -m "noi-gui-len" (tao noi dung commit)
+=> git push origin main
